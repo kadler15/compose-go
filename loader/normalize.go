@@ -21,8 +21,8 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/compose-spec/compose-go/errdefs"
-	"github.com/compose-spec/compose-go/types"
+	"github.com/kadler15/compose-go/errdefs"
+	"github.com/kadler15/compose-go/types"
 	"github.com/pkg/errors"
 	"github.com/sirupsen/logrus"
 )

@@ -19,7 +19,7 @@ package compatibility
 import (
 	"fmt"
 
-	"github.com/compose-spec/compose-go/types"
+	"github.com/kadler15/compose-go/types"
 )
 
 func (c *AllowList) CheckBlkioConfig(service *types.ServiceConfig) {

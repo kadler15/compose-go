@@ -22,7 +22,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/compose-spec/compose-go/types"
+	"github.com/kadler15/compose-go/types"
 )
 
 func fullExampleConfig(workingDir, homeDir string) *types.Config {

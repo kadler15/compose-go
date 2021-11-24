@@ -21,7 +21,7 @@ import (
 
 	"gotest.tools/v3/assert"
 
-	"github.com/compose-spec/compose-go/types"
+	"github.com/kadler15/compose-go/types"
 )
 
 func TestValidateAnonymousVolume(t *testing.T) {

@@ -17,7 +17,7 @@
 package loader
 
 import (
-	"github.com/compose-spec/compose-go/types"
+	"github.com/kadler15/compose-go/types"
 )
 
 func withVersionExampleConfig(workingDir, homeDir string) *types.Config {

@@ -20,7 +20,7 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/compose-spec/compose-go/types"
+	"github.com/kadler15/compose-go/types"
 	"gotest.tools/v3/assert"
 	is "gotest.tools/v3/assert/cmp"
 )
